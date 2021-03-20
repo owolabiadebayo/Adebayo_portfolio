@@ -33,7 +33,7 @@ const Portfolio = () => {
               <div className="tech"><DiJavascript size={25} style={{color:'yellow'}}/> <FaNodeJs size={25}/> <DiMongodb style={{color:'green'}} size={25}/><FaReact size={50} style={{color:'blue', background:'white' }} /><SiFirebase size={50} style={{color:'blue', background:'white' }} />  <span>Email.js</span> </div>
             </p>
           <ul>
-            <li> <a href="https:gmtsoftware.tech">Click here to go to website</a></li>
+            <li> <a href="https://gmtsoftware.tech">Click here to go to website</a></li>
             <li> <em>github.com/owolabiadebayo/GMTsoftware-React-Web-App/</em> </li>
           </ul>
           </div>
