@@ -44,7 +44,7 @@ const About = () => {
       {/* </section> */}
     <h5><GiLaptop size={100}/></h5>
     
-    <h3 id='git'>OWOLABI ADEBAYO STEPHEN <br/> Github.com/owolabiadebayo | Owolabiadebayo@gmail.com</h3>
+    <h3 id='git pt-3'> OWOLABI ADEBAYO STEPHEN <br/> Github.com/owolabiadebayo | Owolabiadebayo@gmail.com</h3>
 
       <div className="landing-text"> 
         
