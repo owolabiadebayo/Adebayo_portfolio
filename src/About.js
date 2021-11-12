@@ -27,13 +27,12 @@ const About = () => {
         <h5>
           I am a Professional Full Stack Developer | React-Js/Typescript
           Engineer| Flutter Developer | Python Developer, Data Science and
-          Machine Learning Enthusiast with over 2 years’ experience providing
-          programming and database expertise Forward-thinking problem
-          identification, research, analysis and resolution. Also spearhead
-          full-life cycle project development and innovatively manages quality
-          assurance. <br />
-          <br /> Am passionate about joining an organisation where i can
-          leverage my drive to contribute to innovation and drive.
+          Machine Learning Enthusiast with over 2 years’ experience in software
+          architecture, design, development, implementation, and integration.
+          Also spearhead full-life cycle project development and innovatively
+          manages quality assurance. <br />
+          <br /> I'm passionate about joining an organisation where i can
+          leverage my drive to contribute to innovation and growth.
         </h5>
         <br />
         <p>
