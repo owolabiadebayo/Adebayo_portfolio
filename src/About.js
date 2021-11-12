@@ -15,7 +15,7 @@ const About = () => {
         <div className="profpic">
           <img
             src={profPic}
-            height="350px"
+            height="300px"
             className="img-responsive"
             alt="profile"
           />

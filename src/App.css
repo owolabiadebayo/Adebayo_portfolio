@@ -72,7 +72,7 @@ li {
 
 .profpic img {
   float: left;
-  margin-right: 10px;
+  margin-right: 5px;
 }
 p {
   float: right;
@@ -158,6 +158,7 @@ p {
   align-items: center;
   justify-content: center;
   margin-bottom: 5rem;
+  padding: 5px;
 }
 
 .portfolio-item:last-child {
@@ -184,6 +185,7 @@ p {
 
 .portfolio-description {
   flex: 1;
+  padding-left: 30px;
 }
 
 .portfolio-description h2 {

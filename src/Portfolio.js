@@ -306,7 +306,7 @@ const Portfolio = () => {
           >
             <div
               className="portfolio-description has-margin-right"
-              style={{ marginLeft: 20 }}
+              style={{ marginLeft: 30 }}
             >
               <p> ShoppingCart App</p>
               <h6>Front-End WebMark: Bootstrap, CSS,</h6>
