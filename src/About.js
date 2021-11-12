@@ -76,7 +76,7 @@ const About = () => {
       <div className="landing-text">
         {/* <img src={logo} alt="aitsam ahad logo" className="logo" /> */}
         <h6>
-          SOFTWARE ENGINEER |{" "}
+          FULL STACK SOFTWARE DEVELOPER |{" "}
           <a href={pdf} className="btn btn-primary btn-md">
             Download Resume
           </a>
