@@ -63,7 +63,7 @@ const About = () => {
       </div>
 
       {/* </section> */}
-      <h5>
+      <h5 className="lap">
         <GiLaptop size={100} />
       </h5>
 

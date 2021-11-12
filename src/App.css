@@ -228,7 +228,7 @@ p {
 li {
   color: #ffffff;
 }
-/* h5 {
+.lap {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -237,7 +237,7 @@ li {
   text-align: center;
   z-index: 1;
   padding-bottom: 14rem;
-} */
+}
 h4 {
   position: absolute;
   top: 50%;
