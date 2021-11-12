@@ -21,7 +21,7 @@ const Service = () => {
             <div className="icon-container">
               <WebIcon style={iconStyles} />
             </div>
-            <h3>Full-Stack Software Engineer</h3>
+            <h3>Full-Stack Software Developer</h3>
             <p>
               Am a full stack developer, I have experience working{" "}
               <span>

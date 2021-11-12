@@ -96,6 +96,12 @@ p {
     display: flex;
     background-color: rgb(25, 23, 71);
   }
+  .nav-link {
+    font-family: var(--primary-font);
+    font-size: 1.5rem;
+    font-family: monospace;
+    cursor: pointer;
+  }
 
   .portfoliostyle img {
     width: 100%;
@@ -235,7 +241,7 @@ li {
   transform: translate(-50%, -50%);
   width: 100%;
   text-align: center;
-  z-index: 1;
+  z-index: 10;
   padding-bottom: 14rem;
 }
 h4 {
@@ -323,6 +329,12 @@ h4 {
   }
   .portfolio-item {
     flex-direction: column;
+  }
+  .nav-link {
+    font-family: var(--primary-font);
+    font-size: 1.5rem;
+    font-family: monospace;
+    cursor: pointer;
   }
 
   .portfolio-img {
