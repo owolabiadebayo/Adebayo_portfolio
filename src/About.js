@@ -24,7 +24,7 @@ const About = () => {
           <h1 id="section2">About</h1>
         </div>
 
-        <p>
+        <h5>
           I am a Professional Full Stack Developer | React-Js/Typescript
           Engineer| Flutter Developer | Python Developer, Data Science and
           Machine Learning Enthusiast with over 2 years’ experience providing
@@ -34,7 +34,7 @@ const About = () => {
           assurance. <br />
           <br /> Am passionate about joining an organisation where i can
           leverage my drive to contribute to innovation and drive.
-        </p>
+        </h5>
         <br />
         <p>
           Technical Skill

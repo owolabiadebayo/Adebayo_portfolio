@@ -91,7 +91,6 @@ const Portfolio = () => {
               className="portfolio-description has-margin-right"
               style={{ marginLeft: 20 }}
             >
-              <h6>Freelance Software Development</h6>
               <h2>Glade.ng</h2>
               <p>
                 Fullstack Web for annual webinar for managing school portals in
