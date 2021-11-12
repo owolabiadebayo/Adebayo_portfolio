@@ -52,7 +52,7 @@ li {
 .portfoliostyle {
   overflow: hidden;
   width: 100%;
-  height:auto;
+  height: auto;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -168,6 +168,10 @@ p {
   flex: 1;
   margin: 60px;
 }
+.portfolio-img2 {
+  display: flex;
+  margin-left: 20px;
+}
 
 /* .portfolio-img img {
     filter: grayscale(100%) blur(1px);
@@ -217,8 +221,8 @@ p {
   padding-top: 6rem;
   padding-bottom: 4rem;
 }
-li{
-  color:#ffffff
+li {
+  color: #ffffff;
 }
 h5 {
   position: absolute;
@@ -240,7 +244,6 @@ h4 {
   z-index: 1;
   font-size: 3rem;
   padding-bottom: 6rem;
-  
 }
 #git {
   position: absolute;
