@@ -17,6 +17,9 @@ li {
   font-family: monospace;
   cursor: pointer;
 }
+.tech {
+  margin: 15px;
+}
 
 .nav-link > .active {
   border-bottom: 1px solid var(--yellow-shade);
@@ -75,7 +78,6 @@ li {
   margin-right: 5px;
 }
 p {
-  float: right;
   margin-left: 20px;
   width: 50%;
 }
@@ -185,9 +187,6 @@ p {
 
 .portfolio-description {
   flex: 1;
-  padding-left: 30px;
-  padding-right: 30px;
-  margin: 10px;
 }
 
 .portfolio-description h2 {
@@ -198,7 +197,8 @@ p {
 }
 
 .portfolio-description h6 {
-  color: rgb(214, 214, 214);
+  color: rgb(175, 175, 175);
+  margin: 15px;
 }
 
 .portfolio-description h1 {

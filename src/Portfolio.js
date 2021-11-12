@@ -122,7 +122,10 @@ const Portfolio = () => {
             data-aos="fade-left"
             data-aos-delay="400"
           >
-            <div className="portfolio-img has-margin-right">
+            <div
+              className="portfolio-img has-margin-right"
+              style={{ marginLeft: 20 }}
+            >
               <img src={IOS} height="250" alt="" />
             </div>
             <div className="portfolio-description">
