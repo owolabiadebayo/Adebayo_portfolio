@@ -186,17 +186,19 @@ p {
 .portfolio-description {
   flex: 1;
   padding-left: 30px;
+  padding-right: 30px;
+  margin: 10px;
 }
 
 .portfolio-description h2 {
   font-size: 3rem;
   font-weight: 300;
-  margin: 1rem 0;
+  margin: 2rem 0;
   color: white;
 }
 
 .portfolio-description h6 {
-  color: gray;
+  color: rgb(214, 214, 214);
 }
 
 .portfolio-description h1 {
